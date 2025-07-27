@@ -27,7 +27,7 @@ Install [Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) from Gn
 
 ## Problems:
 
-- dont enable “Apply Accent to Shell allover” and “Apply all Styles to Shell allover” because it leads to ugly boxes in the search results. I haven’t figured out yet, how to prevent that without disabling these options.
+- Don't enable “Apply Accent to Shell allover” and “Apply all Styles to Shell allover” because it leads to ugly boxes in the search results. I haven’t figured out yet, how to prevent that without disabling these options.
 - Trilands:
     - I haven’t figured out yet how to control the radius of the left and right parts of the bar to make the sides more diagonal instead of rounded to resemble the shield UI from Halo 1.
     - I don’t know how to get rid of the vertical borders between the elements in the topbar.
@@ -73,7 +73,5 @@ https://www.sounds-resource.com/xbox_360/halo3/
 [https://github.com/Aryan20/Logomenu](https://github.com/Aryan20/Logomenu)
 
 [](https://gitlab.gnome.org/GNOME/gnome-shell-extensions)
-
-Places Status Indicator
 
 [https://github.com/Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows)
